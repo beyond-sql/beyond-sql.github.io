@@ -9,6 +9,9 @@ title: Beyond SQL Workshop 2026
 <div style="text-align:center; margin-bottom: 2em;">
   <a href="#objectives">Objectives</a> •
   <a href="#call">Call for Papers</a> •
+  <a href="#dates">Dates</a> •
+  <a href="#submissions">Submissions</a> •
+  <a href="#organization">Organization</a> •
 </div>
 
 ---
