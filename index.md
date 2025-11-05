@@ -1,3 +1,7 @@
+---
+title: Beyond SQL Workshop 2026
+---
+
 # Beyond SQL: AI for Complex Data Management 
 ---
 
