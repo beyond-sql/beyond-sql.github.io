@@ -11,7 +11,7 @@ title: Beyond SQL Workshop 2026
   <a href="#call">Call for Papers</a> •
   <a href="#dates">Dates</a> •
   <a href="#submissions">Submissions</a> •
-  <a href="#organization">Organization</a> •
+  <a href="#organization">Organization</a>
 </div>
 
 ---
