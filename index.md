@@ -41,3 +41,23 @@ Beyond SQL will be held as a half-day workshop at [ICDE 2026](https://icde2026.g
 - From data to report generation, hypothesis testing
 - Benchmarks on any of the topics above
     
+
+## <a name="dates"></a> Dates
+- **Submission deadline: February 16th, 2026**
+- Notification of acceptance: March 2nd, 2026
+- Camera-ready copy due: March 9th, 2026
+- Workshop day: May 4th, 2026
+- ICDE Main Conference: May 5-8th, 2026
+
+## <a name="submissions"></a> Submissions
+Submissions will be submitted over OpenReview and will be reviewed in a single-blind manner.
+
+Template: Manuscripts must be prepared in accordance with the [IEEE format](https://www.ieee.org/conferences_events/conferences/publishing/templates.html) that is also used for the main ICDE conference.
+
+## <a name="organization"></a> Organization
+Beyond SQL is organized by: 
+- Oktie Hassanzadeh (IBM Research)
+- Kavitha Srinivas (IBM Research)
+- Liane Vogel (TU Darmstadt)
+- Sola Shirai (IBM Research)
+- Liana Patel (Stanford University)
