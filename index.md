@@ -8,6 +8,7 @@ title: Beyond SQL Workshop 2026
 <!-- Navigation bar -->
 <div style="text-align:center; margin-bottom: 2em;">
   <a href="#objectives">Objectives</a> •
+  <a href="#format">Format</a> •
   <a href="#call">Call for Papers</a> •
   <a href="#dates">Dates</a> •
   <a href="#submissions">Submissions</a> •
@@ -19,6 +20,9 @@ title: Beyond SQL Workshop 2026
 ## <a name="objectives"></a> Objectives
 
 There has been a tremendous amount of work in the space of converting natural language to SQL queries.  While this work is very valuable to business users, enterprise data management has many complex uses of SQL that are less actively covered by current work.  Examples are querying structured and unstructured data, knowledge graphs, property graphs, performing extract load transform workloads, remediating complex SQL queries as application demands change, etc. As AI is increasingly used to transform simpler querying workloads, there is an opportunity to apply them in these other aspects of data management. We aim to bring together researchers exploring these diverse topics together to promote cross-fertilization and sharing of techniques that may transfer well from one domain to the other.
+
+## <a name="format"></a> Format
+Beyond SQL will be held as a half-day workshop at [ICDE 2026](https://icde2026.github.io/). The proceedings of all workshops will be published jointly alongside with the conference proceedings. 
 
 ## <a name="call"></a> Call for Papers
 
