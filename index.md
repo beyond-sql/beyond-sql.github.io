@@ -50,7 +50,7 @@ Beyond SQL will be held as a half-day workshop at [ICDE 2026](https://icde2026.g
 - ICDE Main Conference: May 5-8th, 2026
 
 ## <a name="submissions"></a> Submissions
-Submissions will be submitted over OpenReview and will be reviewed in a single-blind manner.
+Submissions will be submitted over OpenReview and will be reviewed in a single-anonymous manner.
 
 Template: Manuscripts must be prepared in accordance with the [IEEE format](https://www.ieee.org/conferences_events/conferences/publishing/templates.html) that is also used for the main ICDE conference.
 
