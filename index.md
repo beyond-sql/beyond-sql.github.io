@@ -25,7 +25,7 @@ There has been a tremendous amount of work in the space of converting natural la
 Beyond SQL will be held as a half-day workshop at [ICDE 2026](https://icde2026.github.io/). The proceedings of all workshops will be published jointly alongside with the conference proceedings. 
 
 The workshop accepts regular research papers and industrial papers of the following types:
-- Full research papers: up to **12 pages** + references (no appendix)
+- Full research papers: up to **8 pages** + references (no appendix)
 - Short paper: up to **4 pages** + references  (no appendix)
 - Extended abstract papers: up to **2 pages** + references (no appendix)
 
