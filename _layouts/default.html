@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    {% include head.html %}
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+
+    <link rel="stylesheet"
+          href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
+
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
@@ -22,7 +30,12 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      {% include footer.html %}
+      <footer class="site-footer">
+        <span class="site-footer-owner">
+          <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+          is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
+        </span>
+      </footer>
     </main>
   </body>
 </html>
