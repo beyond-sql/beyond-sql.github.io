@@ -2,6 +2,15 @@
 title: Beyond SQL Workshop 2026
 ---
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: none !important;
+  }
+</style>
+
 # Beyond SQL: AI for Complex Data Management 
 ---
 
