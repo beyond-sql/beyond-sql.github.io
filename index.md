@@ -3,6 +3,9 @@ title: Beyond SQL Workshop 2026
 ---
 
 # Beyond SQL: AI for Complex Data Management 
+
+![Beyond SQL Workshop](BeyondSQL_image.png)
+
 ---
 
 <!-- Navigation bar -->
