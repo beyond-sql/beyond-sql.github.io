@@ -70,6 +70,8 @@ Submit your paper at: [Link will follow soon]
 Template: Manuscripts must be prepared in accordance with the [IEEE format](https://www.ieee.org/conferences_events/conferences/publishing/templates.html) that is also used for the main ICDE conference.
 
 ## <a name="organization"></a> Organization
+For questions, please contact: solashirai(at)ibm.com
+
 Beyond SQL is organized by: 
 - Oktie Hassanzadeh (IBM Research)
 - Kavitha Srinivas (IBM Research)
