@@ -93,7 +93,7 @@ Beyond SQL is organized by:
 - Sola Shirai (IBM Research)
 - Liana Patel (Stanford University)
 
-##  Program Committee
+###  Program Committee
 - Alon Halevy
 - Haonan Wang
 - Paolo Papotti
