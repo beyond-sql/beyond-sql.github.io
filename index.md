@@ -71,7 +71,7 @@ The workshop accepts regular research papers and industrial papers of the follow
 ## <a name="submissions"></a> Submissions
 Submissions will be submitted over OpenReview and will be reviewed in a single-anonymous manner.
 
-Submit your paper at: [Link will follow soon]
+Submit your paper at: [https://openreview.net/group?id=IEEE.org/ICDE/2026/Workshop/Beyond_SQL](https://openreview.net/group?id=IEEE.org/ICDE/2026/Workshop/Beyond_SQL)
 
 Template: Manuscripts must be prepared in accordance with the [IEEE format](https://www.ieee.org/conferences_events/conferences/publishing/templates.html) that is also used for the main ICDE conference.
 
