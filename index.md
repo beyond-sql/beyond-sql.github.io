@@ -21,6 +21,7 @@ title: Beyond SQL Workshop 2026
   <a href="#call">Call for Papers</a> •
   <a href="#dates">Dates</a> •
   <a href="#submissions">Submissions</a> •
+  <a href="#program">Program</a> •
   <a href="#organization">Organization</a>
 </div>
 
@@ -75,6 +76,13 @@ Submit your paper at: [https://openreview.net/group?id=IEEE.org/ICDE/2026/Worksh
 
 Template: Manuscripts must be prepared in accordance with the [IEEE format](https://www.ieee.org/conferences_events/conferences/publishing/templates.html) that is also used for the main ICDE conference.
 
+## <a name="program"></a> Conference Program
+### Invited Speakers:
+- [Reynold Cheng](https://www.reynold.hku.hk/) (University of Hong Kong (HKU))
+
+- [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp) (University of California, Berkeley)
+
+
 ## <a name="organization"></a> Organization
 For questions, please contact: solashirai(at)ibm.com
 
@@ -84,3 +92,11 @@ Beyond SQL is organized by:
 - Liane Vogel (TU Darmstadt)
 - Sola Shirai (IBM Research)
 - Liana Patel (Stanford University)
+
+##  Program Committee
+- Alon Halevy
+- Haonan Wang
+- Paolo Papotti
+- Madelon Hulsebos
+- Jan-Micha Bodensohn
+- Makbule Gulcin Ozsoy 
