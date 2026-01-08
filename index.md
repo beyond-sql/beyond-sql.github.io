@@ -94,9 +94,9 @@ Beyond SQL is organized by:
 - Liana Patel (Stanford University)
 
 ###  Program Committee
-- Alon Halevy
-- Haonan Wang
-- Paolo Papotti
-- Madelon Hulsebos
-- Jan-Micha Bodensohn
-- Makbule Gulcin Ozsoy 
+- Alon Halevy (Google Cloud)
+- Haonan Wang (Columbia University)
+- Paolo Papotti (EURECOM)
+- Madelon Hulsebos (CWI)
+- Jan-Micha Bodensohn (TU Darmstadt)
+- Makbule Gulcin Ozsoy (Neo4j)
