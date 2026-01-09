@@ -1,5 +1,15 @@
 ---
-title: Beyond SQL Workshop 2026
+layout: default
+title: "Beyond SQL Workshop 2026 — AI for Complex Data Management"
+description: "Beyond SQL Workshop 2026 (co-located with ICDE) brings together researchers and practitioners in AI, data management, and natural language interfaces to explore benchmarks, advanced SQL analytics, and emerging techniques for complex data workflows."
+keywords: "Beyond SQL, workshop, ICDE 2026, natural language to SQL, complex data management, AI, benchmarks, data systems"
+permalink: /
+
+# Open Graph / Social
+og_title: "Beyond SQL Workshop 2026"
+og_description: "A research workshop on AI-driven analytics, benchmarks, and advanced natural language interfaces for complex SQL and data workflows."
+og_image: "/BeyondSQL_logo.png"
+og_type: "website"
 ---
 
 <style>
