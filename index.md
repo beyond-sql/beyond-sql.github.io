@@ -90,11 +90,11 @@ Template: Manuscripts must be prepared in accordance with the [IEEE format](http
 
 |   Time      | Progam | Speaker |
 | ----------- | ----------- | ----------- |
-| 11:00    | Keynote 1 | Aditya Parameswaran |
-| 12:10    | Automatic End-to-End Data Integration using Large Language Models | Aaron Steiner, Christian Bizer |
+| 11:00    | Keynote 1 - BIRD-SQL: Towards Automatic Data-Centric Code Generation | Reynold Cheng   |
+| 12:10    | Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL | Saurabh Deochake, Debajyoti Mukhopadhyay |
 | 12:30    | Lunch Break |  |
-| 14:00    | Keynote 2 - BIRD-SQL: Towards Automatic Data-Centric Code Generation | Reynold Cheng |
-| 14:55    | Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL | Saurabh Deochake, Debajyoti Mukhopadhyay |
+| 14:00    | Keynote 2  | Aditya Parameswaran |
+| 14:55    | Automatic End-to-End Data Integration using Large Language Models | Aaron Steiner, Christian Bizer |
 | 15:15    | Short Break |  |
 | 15:20    | Towards Executing Sloppy SQL Queries Over Tabular Data Lakes | Jan-Micha Bodensohn, Jakob Steinke, Carsten Binnig |
 | 15:40    | How Far Can They Map? Probing LLM Capabilities for Cross-Schema SQL Generation | Mohammadreza Daviran, Davood Rafiei |
