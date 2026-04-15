@@ -72,10 +72,10 @@ The workshop accepts regular research papers and industrial papers of the follow
 
 |             | Deadline |
 | ----------- | ----------- |
-| **Paper Submission**      | **February 16th, 2026**      |
+| Paper Submission      | February 16th, 2026     |
 |  Notification of acceptance:     | March 2nd, 2026        |
 |  Camera-ready copy due:     | March 9th, 2026      |
-|  Workshop day:     | May 4th, 2026     |
+|  **Workshop day:**     | **May 4th, 2026**     |
 | ICDE Main Conference:     | May 5-8th, 2026       |
 
 
@@ -87,10 +87,30 @@ Submit your paper at: [https://openreview.net/group?id=IEEE.org/ICDE/2026/Worksh
 Template: Manuscripts must be prepared in accordance with the [IEEE format](https://www.ieee.org/conferences_events/conferences/publishing/templates.html) that is also used for the main ICDE conference.
 
 ## <a name="program"></a> Conference Program
-### Invited Speakers:
-- [Reynold Cheng](https://www.reynold.hku.hk/) (University of Hong Kong (HKU))
 
-- [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp) (University of California, Berkeley)
+|   Time      | Progam | Speaker |
+| ----------- | ----------- | ----------- |
+| 11:00    | Keynote 1 | Aditya Parameswaran |
+| 12:10    | Automatic End-to-End Data Integration using Large Language Models | Aaron Steiner, Christian Bizer |
+| 12:30    | Lunch Break |  |
+| 14:00    | Keynote 2 - BIRD-SQL: Towards Automatic Data-Centric Code Generation | Reynold Cheng |
+| 14:55    | Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL | Saurabh Deochake, Debajyoti Mukhopadhyay |
+| 15:15    | Short Break |  |
+| 15:20    | Towards Executing Sloppy SQL Queries Over Tabular Data Lakes | Jan-Micha Bodensohn, Jakob Steinke, Carsten Binnig |
+| 15:40    | How Far Can They Map? Probing LLM Capabilities for Cross-Schema SQL Generation | Mohammadreza Daviran, Davood Rafiei |
+| 16:00    | Closing |  |
+
+### Keynotes:
+
+**BIRD-SQL: Towards Automatic Data-Centric Code Generation** - [Reynold Cheng](https://www.reynold.hku.hk/) (University of Hong Kong (HKU))
+
+**Abstract:** Database systems, which provide various operations for defining and querying data, enable large-scale AI systems and intelligent applications in various domains. Due to recent advances in large language models (LLMs), automating database operations through code generation has become increasingly attainable. This capability has given rise to a new paradigm—Data-Centric Code Generation (DCCG)—which aims to build systems that can automatically understand, manipulate, and reason over data.
+To realize DCCG, I will discuss our team’s effort in building benchmarking systems, including BIRD-SQL, a large-scale Text-to-SQL benchmark on real databases, and SWE-SQL, which gauges the ability that an LLM resolves user SQL issues. These benchmarks, widely used in the industry, reveal hallucination and other issues faced by LLMs. To address these challenges, I will present our work in graph-aware reasoning, SQL correction, and multi-turn tabular data analysis. They aim to evolve LLMs from static code generators into autonomous, trustworthy agents that can understand and generate data-driven software systems.
+
+**Bio:** Prof. Reynold Cheng is the Division Head and Professor (AI & Data Science), at the School of Computing and Data Science in the University of Hong Kong (HKU) established in 2024. He is a Steering Committee Member of the HKU Musketeers Foundation Institute of Data Science. He is an academic advisor to the College of Professional and Continuing Education of HKPU. He was an Associate Dean of Engineering in 2022-24. His research interests are in data science, big graph analytics and uncertain databases. 
+Professor Cheng is named the AI 2000 Most Influential Scholar Honorable Mention in Database in 2023 to 2025. He received the ACM Distinguished Membership Award and the HKU Outstanding Research Student Supervisor Award in 2023. He was listed as the World’s Top 2% Scientists by Stanford University in 2022.  He received the SIGMOD Research Highlights Reward 2020, International Exhibition of Inventions Geneva Award (2026), HKICT Awards (2021, 2023), HKU Knowledge Exchange Award (2024), HKU Engineering Knowledge Exchange Award (2024, 2021), HKU Engineering Best Teaching Award (2023, 2024), and HKU Outstanding Young Researcher Award 2011-12. He received the Universitas 21 Fellowship in 2011, and Hong Kong Polytechnic University Computing Performance Awards (2006, 2007).  He was a PC co-chair of IEEE ICDE 2021. He is on the editorial board of PVLDB, ACM TSAS, IS, DAPD, and DSEJ.
+
+**Keynote 2** - [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp) (University of California, Berkeley)
 
 
 ## <a name="organization"></a> Organization
