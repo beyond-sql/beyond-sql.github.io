@@ -19,6 +19,24 @@ og_type: "website"
   table, th, td {
     border: none !important;
   }
+
+  th {
+    background-color: #f6f8fa;
+    font-weight: 600;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #fafafa;
+  }
+
+  th, td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #e5e7eb;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  }
+  
 </style>
 
 # Beyond SQL: AI for Complex Data Management 
