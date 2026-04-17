@@ -94,7 +94,7 @@ Template: Manuscripts must be prepared in accordance with the [IEEE format](http
 | 12:10    | Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL [[pdf](papers/BeyondSQL_2026_Cost_Trade_offs_of_Reasoning_and_Non_Reasoning_Large_Language_Models_in_Text_to_SQL.pdf)] | Saurabh Deochake, Debajyoti Mukhopadhyay |
 | 12:30    | Lunch Break |  |
 | 14:00    | Keynote 2  | Aditya Parameswaran |
-| 14:55    | Automatic End-to-End Data Integration using Large Language Models  | Aaron Steiner, Christian Bizer |
+| 14:55    | Automatic End-to-End Data Integration using Large Language Models [[pdf](papers/BeyondSQL_2026_Automatic_End-to-End_Data_Integration.pdf)] | Aaron Steiner, Christian Bizer |
 | 15:15    | Short Break |  |
 | 15:20    | Towards Executing Sloppy SQL Queries Over Tabular Data Lakes [[pdf](papers/BeyondSQL_2026_Executing_Sloppy_SQL_Queries_over_Tabular_Data_Lakes.pdf)] | Jan-Micha Bodensohn, Jakob Steinke, Carsten Binnig |
 | 15:40    | How Far Can They Map? Probing LLM Capabilities for Cross-Schema SQL Generation [[pdf](papers/BeyondSQL_2026_Cross_Schema_SQL_Generation.pdf)] | Mohammadreza Daviran, Davood Rafiei |
