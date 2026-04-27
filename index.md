@@ -106,7 +106,7 @@ Template: Manuscripts must be prepared in accordance with the [IEEE format](http
 
 ## <a name="program"></a> Conference Program
 
-|   Time      | Progam | Speaker |
+|   Time      | Program | Speaker |
 | ----------- | ----------- | ----------- |
 | 11:00    | Keynote 1 - BIRD-SQL: Towards Automatic Data-Centric Code Generation | Reynold Cheng   |
 | 12:10    | Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL [[pdf](papers/BeyondSQL_2026_Cost_Trade_offs_of_Reasoning_and_Non_Reasoning_Large_Language_Models_in_Text_to_SQL.pdf)] | Saurabh Deochake, Debajyoti Mukhopadhyay |
