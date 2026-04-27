@@ -111,7 +111,7 @@ Template: Manuscripts must be prepared in accordance with the [IEEE format](http
 | 11:00    | Keynote 1 - BIRD-SQL: Towards Automatic Data-Centric Code Generation | Reynold Cheng   |
 | 12:10    | Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL [[pdf](papers/BeyondSQL_2026_Cost_Trade_offs_of_Reasoning_and_Non_Reasoning_Large_Language_Models_in_Text_to_SQL.pdf)] | Saurabh Deochake, Debajyoti Mukhopadhyay |
 | 12:30    | Lunch Break |  |
-| 14:00    | Keynote 2  | Aditya Parameswaran |
+| 14:00    | Keynote 2 - Agentic optimization for unstructured data processing  | Aditya Parameswaran |
 | 14:55    | Automatic End-to-End Data Integration using Large Language Models [[pdf](papers/BeyondSQL_2026_Automatic_End-to-End_Data_Integration.pdf)] | Aaron Steiner, Christian Bizer |
 | 15:15    | Short Break |  |
 | 15:20    | Towards Executing Sloppy SQL Queries Over Tabular Data Lakes [[pdf](papers/BeyondSQL_2026_Executing_Sloppy_SQL_Queries_over_Tabular_Data_Lakes.pdf)] | Jan-Micha Bodensohn, Jakob Steinke, Carsten Binnig |
@@ -128,7 +128,13 @@ To realize DCCG, I will discuss our team’s effort in building benchmarking sys
 **Bio:** Prof. Reynold Cheng is the Division Head and Professor (AI & Data Science), at the School of Computing and Data Science in the University of Hong Kong (HKU) established in 2024. He is a Steering Committee Member of the HKU Musketeers Foundation Institute of Data Science. He is an academic advisor to the College of Professional and Continuing Education of HKPU. He was an Associate Dean of Engineering in 2022-24. His research interests are in data science, big graph analytics and uncertain databases. 
 Professor Cheng is named the AI 2000 Most Influential Scholar Honorable Mention in Database in 2023 to 2025. He received the ACM Distinguished Membership Award and the HKU Outstanding Research Student Supervisor Award in 2023. He was listed as the World’s Top 2% Scientists by Stanford University in 2022.  He received the SIGMOD Research Highlights Reward 2020, International Exhibition of Inventions Geneva Award (2026), HKICT Awards (2021, 2023), HKU Knowledge Exchange Award (2024), HKU Engineering Knowledge Exchange Award (2024, 2021), HKU Engineering Best Teaching Award (2023, 2024), and HKU Outstanding Young Researcher Award 2011-12. He received the Universitas 21 Fellowship in 2011, and Hong Kong Polytechnic University Computing Performance Awards (2006, 2007).  He was a PC co-chair of IEEE ICDE 2021. He is on the editorial board of PVLDB, ACM TSAS, IS, DAPD, and DSEJ.
 
-**Keynote 2** - [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp) (University of California, Berkeley)
+**Agentic optimization for unstructured data processing** - [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp) (University of California, Berkeley)
+
+**Abstract:** We're increasingly starting to see unstructured data processing making its way into data systems, thanks to the data understanding capabilities of modern LLMs. At Berkeley, we've been working on optimizing unstructured data processing operators and pipelines for cost and accuracy,  with help from agents. I'll describe a few anecdotes from our recent work in this vein, both for entire pipeline optimization, as well as optimizing individual operators. Our work has been broadly adopted and used both by database vendors as well as by individual users and teams across sectors.
+
+**Bio:** Aditya Parameswaran is an Associate Professor in Computer Science at UC Berkeley, and a co-director of the EPIC Data Lab. Aditya leverages techniques from artificial intelligence, databases, and human-computer interaction to solve hard data challenges. Multiple open-source tools developed in his group have received thousands of GitHub stars (including Modin, Lux, IPyFlow, DocETL)---and have been downloaded tens of millions of times overall across a spectrum of industries.  His research was commercialized as a startup, Ponder, in 2021, where he served as Co-founder and President, before its acquisition by Snowflake. Aditya has received the Alfred P. Sloan Research Fellowship, VLDB Early Career Award, the NSF CAREER Award, the TCDE Rising Star Award, along with other recognitions. His website is at http://adityagp.net.
+
+
 
 
 ## <a name="organization"></a> Organization
